@@ -48,7 +48,7 @@ public:
 
 // Extra Functions
 void Welcome() {
-    cout << "Welcome To Hemsagar Pharma Store" << endl << endl;
+    cout << "Welcome To Raghwendra Pharma Store" << endl << endl;
     cout << "Menu" << endl;
 }
 
